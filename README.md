@@ -35,16 +35,6 @@
 - 💼 DevSecOps Engineer | Robotics Developer
 
 </td>
-<td>
-
-**💼 Current Work**
-- 🏢 Gritfeat Solution (DevSecOps Intern)
-- 🔐 Building secure CI/CD pipelines
-- ☁️ AWS infrastructure automation
-- ⚙️ Kubernetes deployments
-- 🛡️ Security hardening & compliance
-
-</td>
 </tr>
 </table>
 
