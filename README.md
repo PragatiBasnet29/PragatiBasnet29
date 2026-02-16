@@ -46,7 +46,7 @@
 | Area | Technologies & Skills |
 |:-----|:---------------------|
 | ☁️ **Cloud & Infrastructure** | AWS (EC2, Lambda, S3, IAM, CloudWatch), Azure |
-| 🔒 **DevSecOps** | CI/CD, Docker, Kubernetes, Terraform, GitHub Actions, Nginx |
+| 🔒 **DevSecOps** | CI/CD, Docker, Terraform, GitHub Actions, Nginx |
 | 🤖 **Robotics & IoT** | Arduino, ESP32, Embedded Systems, PCB Design, Sensors |
 | 💻 **Backend Development** | Python (Django, Flask), SQL, MySQL, REST APIs |
 | 🔧 **Hardware Engineering** | Sensors, Motors, PID Control, Real-time Systems |
@@ -54,9 +54,6 @@
 
 </div>
 
-> 💡 **Fun Fact:** I build robots that solve mazes and cloud systems that scale to millions! 🚀
-
----
 
 ## 💼 Professional Experience
 
