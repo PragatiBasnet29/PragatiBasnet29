@@ -22,7 +22,7 @@
 ---
 
 ## 👋 About Me
-
+<div align="center">
 <table>
 <tr>
 <td>
@@ -37,6 +37,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 ### 🚀 What I Do
 
