@@ -23,60 +23,47 @@
 
 ## 👋 About Me
 
-```python
-class PragatiBasnet:
-    def __init__(self):
-        self.name = "Pragati Basnet"
-        self.location = "Kathmandu, Nepal 🇳🇵"
-        self.education = "B.E. in Electronics and Communication Engineering"
-        self.certifications = ["AWS Certified Cloud Practitioner"]
-        self.role = "DevSecOps Engineer | Robotics Developer"
-        
-    def current_work(self):
-        return {
-            "company": "Gritfeat Solution",
-            "position": "DevSecOps Intern",
-            "focus": [
-                "Building secure CI/CD pipelines",
-                "AWS infrastructure automation",
-                "Kubernetes deployments",
-                "Security hardening & compliance"
-            ]
-        }
-    
-    def expertise(self):
-        return [
-            "☁️ Cloud: AWS (EC2, Lambda, S3, IAM, CloudWatch)",
-            "🔒 DevSecOps: CI/CD, Docker, Kubernetes, Terraform",
-            "🤖 Robotics: Arduino, ESP32, Embedded Systems, PCB Design",
-            "💻 Backend: Python (Django, Flask), SQL, MySQL",
-            "🔧 Hardware: Sensors, Motors, PID Control, Real-time Systems"
-        ]
-    
-    def fun_fact(self):
-        return "I build robots that solve mazes and cloud systems that scale to millions! 🚀"
-```
+<table>
+<tr>
+<td>
 
-<details>
-<summary>📖 More about my journey...</summary>
-<br>
+**👤 Profile**
+- 📛 Pragati Basnet
+- 📍 Kathmandu, Nepal 🇳🇵
+- 🎓 B.E. in Electronics & Communication Engineering
+- 🏆 AWS Certified Cloud Practitioner
+- 💼 DevSecOps Engineer | Robotics Developer
 
-I'm a **Robotics Engineer** and **AWS Certified Cloud Practitioner** with hands-on experience in designing real-time robotic systems and building secure cloud infrastructure. My work spans from low-level embedded systems to high-level cloud architecture.
+</td>
+<td>
 
-**What drives me:**
-- 🔐 Building **secure, scalable** cloud infrastructure
-- 🤖 Creating **intelligent robotic systems** that solve real-world problems
-- 🌱 **Continuous learning** and sharing knowledge with the community
-- 🤝 **Mentoring** aspiring engineers and contributing to tech communities
+**💼 Current Work**
+- 🏢 Gritfeat Solution (DevSecOps Intern)
+- 🔐 Building secure CI/CD pipelines
+- ☁️ AWS infrastructure automation
+- ⚙️ Kubernetes deployments
+- 🛡️ Security hardening & compliance
 
-**Recent Achievements:**
-- ✅ AWS Certified Cloud Practitioner
-- ✅ DevSecOps Intern at Gritfeat Solution
-- ✅ AWS UG Women in Tech Meetup Organizer & Speaker
-- ✅ Published research on Hardware Integrated OCR System
-- ✅ Built 10+ robotics projects including Micromouse Maze Solver
+</td>
+</tr>
+</table>
 
-</details>
+### 🚀 What I Do
+
+<div align="center">
+
+| Area | Technologies & Skills |
+|:-----|:---------------------|
+| ☁️ **Cloud & Infrastructure** | AWS (EC2, Lambda, S3, IAM, CloudWatch), Azure |
+| 🔒 **DevSecOps** | CI/CD, Docker, Kubernetes, Terraform, GitHub Actions, Nginx |
+| 🤖 **Robotics & IoT** | Arduino, ESP32, Embedded Systems, PCB Design, Sensors |
+| 💻 **Backend Development** | Python (Django, Flask), SQL, MySQL, REST APIs |
+| 🔧 **Hardware Engineering** | Sensors, Motors, PID Control, Real-time Systems |
+| 🎨 **Frontend & Design** | React, Next.js, Tailwind CSS, Figma |
+
+</div>
+
+> 💡 **Fun Fact:** I build robots that solve mazes and cloud systems that scale to millions! 🚀
 
 ---
 
@@ -158,147 +145,219 @@ Technologies: ESP32-S3, Embedded C, Sensors, Real-time Systems
 
 ## 🌟 Featured Projects
 
-### 🔐 DevSecOps & Cloud
+### 🔐 DevSecOps & Cloud Infrastructure
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-#### 🚀 PrashnaKhoj DevOps
-**Full-stack Q&A Platform**
+#### 🚀 DevOps Project with Frontend
+**Complete CI/CD Pipeline Implementation**
 
-- Dockerized complete application stack
-- Deployed on AWS EC2 with IAM & SSH
-- CI/CD with GitHub Actions
-- CloudWatch logging & monitoring
-- GitOps infrastructure management
+- Infrastructure as Code with Terraform (HCL)
+- Automated deployment workflows
+- Container orchestration
+- Frontend integration
+- Production-ready DevOps pipeline
 
-**Tech:** Docker, AWS EC2, GitHub Actions, CloudWatch
+**Tech:** HCL, Terraform, Docker, CI/CD
 
-[View Project →](https://github.com/PragatiBasnet29/DevOpsProjectWithFrontEnd)
+⭐ **[View Project →](https://github.com/PragatiBasnet29/DevOpsProjectWithFrontEnd)**
 
 </td>
 <td width="50%">
 
-#### ⛓️ Blockchain Real Estate
-**Decentralized Property Platform**
+#### ☁️ EKS on AWS
+**Kubernetes Cluster Deployment**
 
-- Smart contracts in Solidity
-- Ethereum Testnet deployment
-- Secure Next.js frontend
-- Blockchain-verified transactions
-- Decentralized property listings
+- Amazon EKS cluster setup
+- AWS infrastructure automation
+- Container orchestration at scale
+- Production Kubernetes deployment
+- Cloud-native architecture
 
-**Tech:** Solidity, Ethereum, Next.js, Web3
+**Tech:** AWS EKS, Kubernetes, Terraform
+
+⭐ **[View Project →](https://github.com/peedutronix/EKS-AWS)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🐳 Docker for Beginners
+**Containerization Learning Path**
+
+- Docker fundamentals
+- Container best practices
+- Multi-container applications
+- Docker Compose workflows
+- Practical examples
+
+**Tech:** Docker, Containers, DevOps
+
+⭐ **[View Project →](https://github.com/PragatiBasnet29/Docker-for-Beginner)**
+
+</td>
+<td width="50%">
+
+#### 🔍 Prashna-Khoj
+**Q&A Platform with DevOps**
+
+- Full-stack Q&A application
+- Docker containerization
+- AWS EC2 deployment
+- GitHub Actions CI/CD
+- Complete DevOps workflow
+
+**Tech:** JavaScript, Docker, AWS, GitHub Actions
+
+⭐ **[View Project →](https://github.com/Ashim-Stha/Prashna-Khoj)**
 
 </td>
 </tr>
 </table>
 </div>
 
-### 🤖 Robotics & Hardware
+### 🤖 Robotics & IoT Systems
 
 <div align="center">
 <table>
 <tr>
-<td width="50%">
-
-#### 🐭 Micromouse Maze Solver
-**Autonomous Maze-Solving Robot**
-
-- Wall-following logic algorithm
-- Arduino Nano implementation
-- Path optimization after traversal
-- Real-time decision making
-- Competition-ready design
-
-**Tech:** Arduino, C++, Sensors, PID Control
-
-⭐ **1 Star**
-
-</td>
 <td width="50%">
 
 #### 🚨 Earthquake Alert System
-**Real-time Disaster Warning**
+**Real-time Disaster Warning IoT**
 
 - ADXL accelerometer sensors
 - P-wave detection across nodes
-- GSM module integration
-- SMS alert system
-- Low-cost community safety
+- GSM module for SMS alerts
+- Multi-node sensor network
+- Low-cost community safety system
 
-**Tech:** Arduino, GSM, Accelerometer, IoT
+**Tech:** Arduino, JavaScript, IoT, GSM, Sensors
 
-⭐ **1 Star**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### ⚽ Robo Soccer Bot
-**Wireless Controlled Robot**
-
-- Arduino Nano controller
-- Bluetooth wireless control
-- Brushless motor drive
-- Rotating kicker mechanism
-- Competitive match-ready
-
-**Tech:** Arduino, Bluetooth, BLDC Motors
+⭐ **[View Project →](https://github.com/PragatiBasnet29/earthquake_and-_alter_system)**
 
 </td>
 <td width="50%">
 
-#### 🏎️ PID Line Following Robot
-**High-Speed Autonomous Bot**
+#### 🔌 ESP-IDF Development
+**Espressif IoT Framework**
 
-- PID control algorithm
-- Speed optimization
-- Enhanced stability
-- Dynamic response tuning
-- Accurate line tracking
+- ESP32 firmware development
+- Real-time embedded systems
+- IoT device integration
+- Low-level hardware programming
+- ESP-IDF official framework
 
-**Tech:** Arduino, PID, IR Sensors
+**Tech:** C, ESP32, ESP-IDF, Embedded Systems
+
+⭐ **17.3k Stars** • **[Explore →](https://github.com/espressif/esp-idf)**
 
 </td>
 </tr>
 </table>
 </div>
 
-### 🧠 AI/ML & Full-Stack
+### 🧠 Full-Stack & Web Development
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-#### 📄 Devanagari OCR System
-**Hardware Integrated Scanner**
+#### 💊 Pharmacy Management System
+**Healthcare Management Solution**
 
-- Nepali citizenship scanner
-- ~90% accuracy on 80+ docs
-- Custom OCR pipeline
-- Hardware integration
-- **Research paper in progress**
+- Complete pharmacy workflow
+- Inventory management
+- Prescription tracking
+- User-friendly interface
+- Database integration
 
-**Tech:** Python, OpenCV, ML, Hardware
+**Tech:** HTML, JavaScript, Database
+
+⭐ **[View Project →](https://github.com/PragatiBasnet29/Pharmacy-management-system)**
 
 </td>
 <td width="50%">
 
-#### 🍽️ GharKoSWAD
-**Community Food Platform**
+#### 🏠 Real Estate Marketplace
+**Blockchain Property Platform**
 
-- Django REST backend
-- React + Tailwind frontend
-- Maps API integration
-- Community-driven platform
-- **Bolt Global Hackathon 2025**
+- Decentralized property transactions
+- Smart contract integration
+- Secure property listings
+- Blockchain verification
+- Modern web interface
 
-**Tech:** Django, React, Tailwind, Maps API
+**Tech:** JavaScript, Solidity, Blockchain, Web3
+
+⭐ **[View Project →](https://github.com/Ashim-Stha/RealEstateMarketplace)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### ⚛️ 25 React Interview Projects
+**React Learning Collection**
+
+- 25 real-world React projects
+- Interview preparation
+- Best practices showcase
+- Component patterns
+- Hands-on learning
+
+**Tech:** React, JavaScript, Frontend
+
+⭐ **382 Stars** • **[Explore →](https://github.com/sangammukherjee/25-reactjs-interview-projects)**
+
+</td>
+<td width="50%">
+
+#### 🤖 Langflow AI
+**AI Workflow Builder**
+
+- Visual AI agent builder
+- Drag-and-drop workflows
+- LLM integration
+- Production-ready AI apps
+- Open-source AI platform
+
+**Tech:** Python, AI/ML, LangChain
+
+⭐ **144.8k Stars** • **[Explore →](https://github.com/langflow-ai/langflow)**
+
+</td>
+</tr>
+</table>
+</div>
+
+### 🔧 Hardware & VHDL
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+#### 💻 VHDL Lab Solutions
+**Digital Design Projects**
+
+- VHDL code solutions
+- Past question implementations
+- Digital circuit design
+- Hardware description language
+- FPGA programming
+
+**Tech:** VHDL, Digital Design, FPGA
+
+⭐ **1 Fork** • **[View Project →](https://github.com/PragatiBasnet29/VHDL-LAB)**
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
