@@ -390,14 +390,6 @@ Technologies: ESP32-S3, Embedded C, Sensors, Real-time Systems
 
 </div>
 
-### 🎖️ GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=PragatiBasnet29&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)
-
-</div>
-
 ### 🌟 Highlights
 
 - ✅ **AWS Certified Cloud Practitioner** - Amazon Web Services
@@ -478,7 +470,6 @@ I'm always excited to collaborate on interesting projects, discuss cloud archite
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragati-basnet-573106263/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PragatiBasnet29)
 [![Email](https://img.shields.io/badge/Email-pragatibasnet123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pragatibasnet123@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-9742456686-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:9742456686)
 
 </div>
 
@@ -510,7 +501,7 @@ I'm always excited to collaborate on interesting projects, discuss cloud archite
 
 ---
 
-© 2026 Pragati Basnet | Made with ❤️ in Kathmandu, Nepal 🇳🇵
+© 2026 Pragati Basnet | Made with ❤️ in Nepal 🇳🇵
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
