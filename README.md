@@ -29,7 +29,6 @@
 
 **👤 Profile**
 - 📛 Pragati Basnet
-- 📍 Kathmandu, Nepal 🇳🇵
 - 🎓 B.E. in Electronics & Communication Engineering
 - 🏆 AWS Certified Cloud Practitioner
 - 💼 DevSecOps Engineer | Robotics Developer
