@@ -10,7 +10,7 @@
 
 ### Building Secure, Scalable Cloud Infrastructure & Intelligent Robotic Systems
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=false&width=700&lines=AWS+Certified+Cloud+Practitioner;DevSecOps+%7C+CI%2FCD+%7C+Kubernetes;Robotics+Engineer+%7C+Hardware+Enthusiast;Building+Secure+Cloud+Infrastructure;Always+Learning%2C+Always+Creating)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B7355&center=true&vCenter=true&multiline=false&width=700&lines=AWS+Certified+Cloud+Practitioner;DevSecOps+%7C+CI%2FCD+%7C+Kubernetes;Robotics+Engineer+%7C+Hardware+Enthusiast;Building+Secure+Cloud+Infrastructure;Always+Learning%2C+Always+Creating)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragati-basnet-573106263/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PragatiBasnet29)
@@ -22,21 +22,31 @@
 ---
 
 ## 👋 About Me
-<div align="center">
+
 <table>
 <tr>
 <td>
 
 **👤 Profile**
 - 📛 Pragati Basnet
+- 📍 Kathmandu, Nepal 🇳🇵
 - 🎓 B.E. in Electronics & Communication Engineering
 - 🏆 AWS Certified Cloud Practitioner
 - 💼 DevSecOps Engineer | Robotics Developer
 
 </td>
+<td>
+
+**💼 Current Work**
+- 🏢 Gritfeat Solution (DevSecOps Intern)
+- 🔐 Building secure CI/CD pipelines
+- ☁️ AWS infrastructure automation
+- ⚙️ Kubernetes deployments
+- 🛡️ Security hardening & compliance
+
+</td>
 </tr>
 </table>
-</div>
 
 ### 🚀 What I Do
 
@@ -45,7 +55,7 @@
 | Area | Technologies & Skills |
 |:-----|:---------------------|
 | ☁️ **Cloud & Infrastructure** | AWS (EC2, Lambda, S3, IAM, CloudWatch), Azure |
-| 🔒 **DevSecOps** | CI/CD, Docker, Terraform, GitHub Actions, Nginx |
+| 🔒 **DevSecOps** | CI/CD, Docker, Kubernetes, Terraform, GitHub Actions, Nginx |
 | 🤖 **Robotics & IoT** | Arduino, ESP32, Embedded Systems, PCB Design, Sensors |
 | 💻 **Backend Development** | Python (Django, Flask), SQL, MySQL, REST APIs |
 | 🔧 **Hardware Engineering** | Sensors, Motors, PID Control, Real-time Systems |
@@ -53,6 +63,9 @@
 
 </div>
 
+> 💡 **Fun Fact:** I build robots that solve mazes and cloud systems that scale to millions! 🚀
+
+---
 
 ## 💼 Professional Experience
 
@@ -357,22 +370,22 @@ Technologies: ESP32-S3, Embedded C, Sensors, Real-time Systems
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PragatiBasnet29&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PragatiBasnet29&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1410&title_color=d4a574&icon_color=d4a574&text_color=e8d5c4"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PragatiBasnet29&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&hide=jupyter%20notebook"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PragatiBasnet29&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=1a1410&title_color=d4a574&text_color=e8d5c4&hide=jupyter%20notebook"/>
 
 </div>
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PragatiBasnet29&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=C9D1D9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PragatiBasnet29&theme=dark&hide_border=true&background=1a1410&ring=d4a574&fire=d4a574&currStreakLabel=e8d5c4&sideLabels=d4a574&dates=c9b8a0)
 
 </div>
 
 <div align="center">
 
 ### 📈 Contribution Activity
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PragatiBasnet29&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B35&line=FF6B35&point=C9D1D9)](https://github.com/PragatiBasnet29)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PragatiBasnet29&theme=high-contrast&hide_border=true&bg_color=1a1410&color=d4a574&line=c9b8a0&point=e8d5c4)](https://github.com/PragatiBasnet29)
 
 </div>
 
@@ -383,6 +396,14 @@ Technologies: ESP32-S3, Embedded C, Sensors, Real-time Systems
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+### 🎖️ GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=PragatiBasnet29&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
 </div>
 
@@ -466,6 +487,7 @@ I'm always excited to collaborate on interesting projects, discuss cloud archite
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragati-basnet-573106263/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PragatiBasnet29)
 [![Email](https://img.shields.io/badge/Email-pragatibasnet123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pragatibasnet123@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-9742456686-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:9742456686)
 
 </div>
 
@@ -475,7 +497,7 @@ I'm always excited to collaborate on interesting projects, discuss cloud archite
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote_color=d4a574&author_color=c9b8a0&bg_color=1a1410)
 
 **"The cloud is limitless, robotics makes it tangible, and DevSecOps makes it secure."** 💫
 
@@ -497,7 +519,7 @@ I'm always excited to collaborate on interesting projects, discuss cloud archite
 
 ---
 
-© 2026 Pragati Basnet | Made with ❤️ in Nepal 🇳🇵
+© 2026 Pragati Basnet | Made with ❤️ in Kathmandu, Nepal 🇳🇵
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
