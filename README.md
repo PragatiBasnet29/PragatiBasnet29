@@ -482,12 +482,14 @@ mindmap
 
 <div align="center">
 
-I'm always excited to collaborate on interesting projects, discuss cloud architecture, robotics, or just connect with fellow tech enthusiasts!
+I’m always excited to collaborate on interesting projects, discuss cloud architecture, robotics, or just connect with fellow tech enthusiasts.
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragati-basnet-573106263/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PragatiBasnet29)
 [![Email](https://img.shields.io/badge/Email-pragatibasnet123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pragatibasnet123@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-9742456686-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:9742456686)
+[![Phone](https://img.shields.io/badge/Phone-Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:9742456686)
 
 </div>
 
@@ -497,21 +499,23 @@ I'm always excited to collaborate on interesting projects, discuss cloud archite
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote_color=d4a574&author_color=c9b8a0&bg_color=1a1410)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&quote_color=ffffff&author_color=ffffff&bg_color=5c3b1e)
 
-**"The cloud is limitless, robotics makes it tangible, and DevSecOps makes it secure."** 💫
+<br>
+
+**The cloud is limitless, robotics makes it tangible, and DevSecOps makes it secure.** 💫
 
 </div>
 
 ---
 
+## 👁️ Profile Views
+
 <div align="center">
 
-### 👁️ Profile Views Counter
+![Profile Views](https://komarev.com/ghpvc/?username=PragatiBasnet29&style=for-the-badge&color=5c3b1e)
 
-![Visitor Count](https://profile-counter.glitch.me/PragatiBasnet29/count.svg)
-
-<br>
+</div>
 
 ### ⭐ If you like my work, consider giving a star to my repositories!
 
